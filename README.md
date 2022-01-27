@@ -8,7 +8,7 @@
 * Inital foot steps were made in core PHP and digged into different PHP frameworks and CMS.
 * After few years i entered the world of JAVA and ASP.net with some support i digged in and mastered my skills. 
 * Then i was so curios about Javascripts then i started Front-end development with JS and JQurey.
-* While working in JQuery more technologies came into play (AngularJS, TypeScript, NodeJS, expressJs)
+* While working in JQuery more technologies came into play (AngularJS,ReactJS, TypeScript, NodeJS, expressJs)
 * Over the years i have associated with many clinets over the globe.
 * I have worked on many technologies and currently looking forward to Blockchain, and several new technologies. 
 * I try every new projects in new technologies by delivering the projects i learn someting new and explore more.
