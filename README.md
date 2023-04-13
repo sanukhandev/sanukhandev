@@ -1,36 +1,15 @@
-## Hey,
 
-### My self Sanu Khan. 
+##👋 Hey there!
+ I'm Sanu Khan, a 🚀full stack developer based in Dubai. I've been building my career in programming since I was 16, and I absolutely 💖love what I do.
 
-* I m working as a full stack Developer in Dubai, partime freelance developer and programming enthusiastic.
-* I have started building my carrer in Programming since the age of 16 it's been 10 years now and I <3 what do. 
-* I fell in love with OOP concept and started my jounery.
-* Inital foot steps were made in core PHP and digged into different PHP frameworks and CMS.
-* After few years i entered the world of JAVA and ASP.net with some support i digged in and mastered my skills. 
-* Then i was so curios about Javascripts then i started Front-end development with JS and JQurey.
-* While working in JQuery more technologies came into play (AngularJS,ReactJS, TypeScript, NodeJS, expressJs)
-* Over the years i have associated with many clinets over the globe.
-* I have worked on many technologies and currently looking forward to Blockchain, and several new technologies. 
-* I try every new projects in new technologies by delivering the projects i learn someting new and explore more.
-* Currently working on cool idea for medical application. 
+My journey started with OOP concepts in core PHP, and I gradually expanded my skills to include different PHP frameworks and CMS. Over the years, I've dived into JAVA and ASP.net, and then became curious about Javascripts. I started front-end development with JS and JQurey, and later explored other technologies like AngularJS, ReactJS, TypeScript, NodeJS, and expressJs.
 
-### What i have done so far .
+I've worked with many clients across the 🌍globe, delivering some really cool HTML websites for startups and small-medium businesses. I've also developed a real-estate ERP solution based on PHP and Angular, and a university students social networking app using React Native, Angular, Python Django, and Postgres.
 
-* Some cool HTML websites for start ups and small medium bussines around the globe.
-* Few wordpress sites for small stores and bussines based in Middle east & India
-* A Real-estate ERP solution based in PHP- angular.
-* A University students social networking apps (React Native, Angular, Python Django, Postgrs)
-* A Garage management system (Angular, java Spring MVC)
-* A road side Assistance Mobile with Web CRM (Agular, Sprin Boot, Ionic)
-* E-commerce application on (Node JS, angular, MongoDB)
-* Worked on a R&D PoC for an health monitoring smart watch (C#, and MQtt)
-* A Music and Video Streaming app (Flutter) -  In Progress
-* A Support desk with KB and ticket management + Office inventory and CRM (Laravel, angular)
-* Medical labotories application and CRM (NestJs, Flutter, Angular) - In Progress
-* Working on Airline Ticketing Engines for B2B and B2C platforms. 
-* Inventory management system for Industiral distribution (Java)
-* Some Shopify websites.
-* Some Technical graduation Projects (Java, ASP.net, Xamarin)
-* Closely assosiated with CMS projects
-* To Be Continued.. 
+One of my current projects is a medical application 💊, but I'm also passionate about research into AI and AI innovations, and cyber security. I believe that these fields have the potential to transform the world and bring about positive change.
 
+In my free time, I love to work on new projects and try out new technologies. I'm currently working on a music and video streaming app 🎶🎥 using Flutter, and a medical laboratories application and CRM using NestJs, Flutter, and Angular.
+
+I've also worked on technical graduation projects using Java, ASP.net, and Xamarin, and have closely associated with CMS projects.
+
+So if you're looking for a developer who's always eager to learn and adapt, then look no further! 🤗
