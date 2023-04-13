@@ -1,5 +1,4 @@
-
-##👋 Hey there!
+👋 Hey there!
  I'm Sanu Khan, a 🚀full stack developer based in Dubai. I've been building my career in programming since I was 16, and I absolutely 💖love what I do.
 
 My journey started with OOP concepts in core PHP, and I gradually expanded my skills to include different PHP frameworks and CMS. Over the years, I've dived into JAVA and ASP.net, and then became curious about Javascripts. I started front-end development with JS and JQurey, and later explored other technologies like AngularJS, ReactJS, TypeScript, NodeJS, and expressJs.
