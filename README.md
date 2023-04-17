@@ -23,7 +23,7 @@
             <li>🌱 <b>I’m currently learning</b>: Blockchain and Cyber-Security research, AI innovations.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Music and video streaming app using Flutter, medical laboratories application and CRM using NestJs, Flutter, and Angular.</li>
             <li>🤔 <b>I’m currently open for</b>: Freelance or full-time job opportunities.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/Sanu-ux/Sanu-ux/issues">Here</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/sanukhandev/sanukhandev/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love to try new cuisines and explore new places.</li>
         </ul>
