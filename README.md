@@ -122,7 +122,7 @@ Currently, my focus is on solution architecture, platform engineering, event-dri
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanukhandev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=sanukhandev&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="GitHub Streak" />
 </p>
 
 <p align="center">
