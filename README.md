@@ -1,33 +1,11 @@
 <div align="center">
-<h3>Sanu Khan</h3>
-  ---
-
-I design and lead scalable cloud-native platforms, distributed systems, and enterprise integrations that connect commerce, data, operations, and digital products.
-
-I specialize in turning complex enterprise requirements into resilient, observable, and production-ready architectures across backend, frontend, integration, cloud, DevOps, and platform engineering.
-
-My focus is on solution architecture, event-driven systems, enterprise commerce, SaaS platforms, and building systems that scale reliably across teams, markets, and business domains.
-
----
-
-  Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
+  
+<h1>Sanu Khan</h1>
 
 <a href="https://www.sanukhan.dev/"><img src="https://img.shields.io/badge/Portfolio-SanuKhan.dev-1f9f45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sanukhandev/"><img src="https://img.shields.io/badge/LinkedIn-sanukhandev-1f9f45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://dev.to/sanukhandev"><img src="https://img.shields.io/badge/Articles-DEV-1f9f45?style=for-the-badge&logo=devdotto&logoColor=white" alt="Articles" /></a>
 <a href="mailto:hello@sanukhan.dev?subject=Hire%20Inquiry%20%E2%80%93%20SanuKhan.dev"><img src="https://img.shields.io/badge/Email-Outlook-1f9f45?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=sanukhandev&label=Profile%20Views&color=1f9f45&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Role-Tech%20Lead-1f9f45?style=flat-square" alt="Tech Lead" />
-<img src="https://img.shields.io/badge/Base-Dubai%2C%20UAE-1f9f45?style=flat-square" alt="Dubai UAE" />
-<img src="https://img.shields.io/badge/Experience-13%2B%20Years-1f9f45?style=flat-square" alt="13+ Years" />
-<img src="https://img.shields.io/badge/Delivery-100%2B%20Solutions-1f9f45?style=flat-square" alt="100+ Solutions" />
-
-</div>
-
-
-## Highlights
-
 <div align="center">
   <img src="https://img.shields.io/badge/Professional%20Experience-13%2B%20years-1f9f45?style=for-the-badge" alt="Professional Experience 13+ years" />
   <img src="https://img.shields.io/badge/Software%20Solutions%20Delivered-100%2B-1f9f45?style=for-the-badge" alt="Software Solutions Delivered 100+" />
@@ -36,10 +14,29 @@ My focus is on solution architecture, event-driven systems, enterprise commerce,
   <img src="https://img.shields.io/badge/Current%20Base-Dubai%2C%20UAE-1f9f45?style=for-the-badge" alt="Current Base Dubai, UAE" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anta&weight=700&size=22&duration=2600&pause=1200&color=1F9F45&center=true&vCenter=true&width=640&height=46&lines=ZaakiyV3RSE;Enterprise-scale+integration+platforms" alt="ZaakiyV3RSE animated highlight" />
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Anta&weight=700&size=22&duration=2600&pause=1200&color=1F9F45&center=true&vCenter=true&width=640&height=46&lines=ZaakiyV3RSE;Self-aware+OpsInt+Platform" alt="ZaakiyV3RSE animated highlight" />
 </div>
 
+---
+
+I design and lead scalable cloud-native platforms, distributed systems, and enterprise integrations that connect commerce, data, operations, and digital products.
+
+I specialize in turning complex enterprise requirements into resilient, observable, and production-ready architectures across backend, frontend, integration, cloud, DevOps, and platform engineering.
+
+My focus is on solution architecture, event-driven systems, enterprise commerce, SaaS platforms, and building systems that scale reliably across teams, markets, and business domains.
+
+
+  
+
+
+<img src="https://komarev.com/ghpvc/?username=sanukhandev&label=Profile%20Views&color=1f9f45&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Role-Tech%20Lead-1f9f45?style=flat-square" alt="Tech Lead" />
+<img src="https://img.shields.io/badge/Base-Dubai%2C%20UAE-1f9f45?style=flat-square" alt="Dubai UAE" />
+<img src="https://img.shields.io/badge/Experience-13%2B%20Years-1f9f45?style=flat-square" alt="13+ Years" />
+<img src="https://img.shields.io/badge/Delivery-100%2B%20Solutions-1f9f45?style=flat-square" alt="100+ Solutions" />
+
+</div>
 ---
 
 ## Service Areas
