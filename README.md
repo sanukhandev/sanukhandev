@@ -117,7 +117,7 @@ Incremental modernization of legacy systems without disrupting production operat
 <div align="center">
   <img
     width="100%"
-    src="https://anya-github-stats.vercel.app/api/stats?username=sanukhandev&theme=midnight&hide=pinned&hide_streak_emoji=true&border_radius=14&section_spacing=8"
+    src="https://anya-github-stats.vercel.app/api/stats?username=sanukhandev&theme=emerald&hide=pinned&hide_streak_emoji=true&border_radius=14&section_spacing=8"
     alt="Sanu Khan GitHub Stats"
   />
 </div>
