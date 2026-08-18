@@ -27,8 +27,7 @@ Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
     src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=0:1f9f45,100:0d5c26&text=Architecture-first%20execution&fontColor=ffffff&fontSize=28&animation=fadeIn&desc=Production-grade%20delivery%20for%20cloud,%20commerce,%20and%20enterprise%20integration&descSize=14&descAlignY=72"
     alt="Architecture-first execution"
   />
-</div
-
+</div>
 
 
 I design and deliver scalable distributed systems, cloud-native platforms, and enterprise integrations that connect commerce, data, operations, and customer-facing digital products across global markets.
@@ -116,12 +115,11 @@ Incremental modernization of legacy systems without disrupting production operat
 ## GitHub Activity Tracker
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanukhandev&show_icons=true&hide_border=true&rank_icon=github&title_color=1f9f45&icon_color=1f9f45&text_color=6e7781&bg_color=00000000" alt="Sanu Khan GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanukhandev&layout=compact&hide_border=true&title_color=1f9f45&text_color=6e7781&bg_color=00000000" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanukhandev&hide_border=true&ring=1F9F45&fire=1F9F45&currStreakLabel=1F9F45&sideLabels=6E7781&dates=6E7781&currStreakNum=1F9F45&sideNums=6E7781" alt="GitHub Streak" />
+  <img
+    width="100%"
+    src="https://anya-github-stats.vercel.app/api/stats?username=sanukhandev&theme=midnight&hide=pinned&hide_streak_emoji=true&border_radius=14&section_spacing=8"
+    alt="Sanu Khan GitHub Stats"
+  />
 </div>
 
 <div align="center">
@@ -138,7 +136,7 @@ Incremental modernization of legacy systems without disrupting production operat
   />
 </div>
 
-> GitHub stats are generated dynamically from public repository data and may vary based on API limits, private repository visibility, and third-party widget availability.
+> GitHub statistics are generated dynamically from public repository data and may vary based on API limits, private repository visibility, caching, and third-party service availability.
 
 ---
 
