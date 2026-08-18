@@ -122,12 +122,7 @@ Incremental modernization of legacy systems without disrupting production operat
   />
 </div>
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanukhandev&bg_color=00000000&color=1f9f45&line=1f9f45&point=6e7781&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
-</div>
+
 
 <div align="center">
   <img
