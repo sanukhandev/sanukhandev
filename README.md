@@ -1,8 +1,7 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=1F9F45&center=true&vCenter=true&repeat=false&width=320&height=40&lines=SanuKhan.dev" alt="SanuKhan.dev" />
+# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=1F9F45&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Sanu+Khan+%7C+%D9%85%D9%87%D9%86%D8%AF%D8%B3" alt="Sanu Khan | مهندس" />
 
-<h3>Sanu Khan | مهندس</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=1200&color=1F9F45&center=true&vCenter=true&width=760&height=34&lines=Tech+Lead;Cloud+Architect;Enterprise+Integration+Specialist;Solution+Architect;Full-Stack+Engineer" alt="Animated role showcase" />
 
@@ -24,10 +23,13 @@ Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Architecture-first%20execution&fontSize=28&color=0:1f9f45,100:0d5c26&fontColor=ffffff&animation=fadeIn&stroke=1f9f45&desc=Production-grade%20delivery%20for%20cloud,%20commerce,%20and%20enterprise%20integration&descAlignY=68&descAlign=50" alt="Architecture-first execution" />
-</div>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=0:1f9f45,100:0d5c26&text=Architecture-first%20execution&fontColor=ffffff&fontSize=28&animation=fadeIn&desc=Production-grade%20delivery%20for%20cloud,%20commerce,%20and%20enterprise%20integration&descSize=14&descAlignY=72"
+    alt="Architecture-first execution"
+  />
+</div
 
-## Overview
+
 
 I design and deliver scalable distributed systems, cloud-native platforms, and enterprise integrations that connect commerce, data, operations, and customer-facing digital products across global markets.
 
@@ -123,11 +125,17 @@ Incremental modernization of legacy systems without disrupting production operat
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanukhandev&bg_color=00000000&color=1f9f45&line=1f9f45&point=6e7781&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanukhandev&bg_color=00000000&color=1f9f45&line=1f9f45&point=6e7781&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanukhandev&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
+  <img
+    src="https://github-profile-trophy-ruddy.vercel.app/?username=sanukhandev&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=4"
+    alt="GitHub trophies"
+  />
 </div>
 
 > GitHub stats are generated dynamically from public repository data and may vary based on API limits, private repository visibility, and third-party widget availability.
@@ -140,13 +148,16 @@ Incremental modernization of legacy systems without disrupting production operat
 <summary><strong>Focus Areas</strong></summary>
 <br/>
 
-- Cloud Architecture        ████████████████████
-- Enterprise Integration    ████████████████████
-- Event-Driven Systems      ███████████████████░
-- SaaS Platform Design      ███████████████████░
-- Full-Stack Engineering    ██████████████████░░
-- DevOps & Observability    ██████████████████░░
+<div align="center">
 
+<img src="https://img.shields.io/badge/Cloud%20Architecture-1f9f45?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Architecture" />
+<img src="https://img.shields.io/badge/Enterprise%20Integration-1f9f45?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Enterprise Integration" />
+<img src="https://img.shields.io/badge/Event--Driven%20Systems-1f9f45?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Event-Driven Systems" />
+<img src="https://img.shields.io/badge/SaaS%20Platform%20Design-1f9f45?style=for-the-badge&logo=vercel&logoColor=white" alt="SaaS Platform Design" />
+<img src="https://img.shields.io/badge/Full--Stack%20Engineering-1f9f45?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Engineering" />
+<img src="https://img.shields.io/badge/DevOps%20%26%20Observability-1f9f45?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps and Observability" />
+
+</div>
 </details>
 
 ---
@@ -409,7 +420,7 @@ Internal tools, API platforms, workflow automation, technical documentation, and
 
 <div align="center">
   <a href="https://www.sanukhan.dev/"><img src="https://img.shields.io/badge/Portfolio-sanukhan.dev-1f9f45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:khan.sanukhan@outlook.com?subject=Hire%20Inquiry%20%E2%80%93%20SanuKhan.dev"><img src="https://img.shields.io/badge/Email-khan.sanukhan%40outlook.com-1f9f45?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hello@sanukhan.dev?subject=Hire%20Inquiry%20%E2%80%93%20SanuKhan.dev"><img src="https://img.shields.io/badge/Email-hello%40sanukhan.dev-1f9f45?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sanukhandev/"><img src="https://img.shields.io/badge/LinkedIn-sanukhandev-1f9f45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sanukhandev"><img src="https://img.shields.io/badge/GitHub-sanukhandev-1f9f45?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://dev.to/sanukhandev"><img src="https://img.shields.io/badge/Dev.to-sanukhandev-1f9f45?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
