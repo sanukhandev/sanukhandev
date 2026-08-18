@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=1F9F45&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Sanu+Khan+%7C+%D9%85%D9%87%D9%86%D8%AF%D8%B3" alt="Sanu Khan | مهندس" />
+# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=1F9F45&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Sanu+Khan" alt="Sanu Khan | مهندس" />
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=1200&color=1F9F45&center=true&vCenter=true&width=760&height=34&lines=Tech+Lead;Cloud+Architect;Enterprise+Integration+Specialist;Solution+Architect;Full-Stack+Engineer" alt="Animated role showcase" />
 
 Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
