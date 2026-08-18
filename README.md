@@ -1,5 +1,16 @@
 <div align="center">
-Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
+<h3>Sanu Khan</h3>
+  ---
+
+I design and lead scalable cloud-native platforms, distributed systems, and enterprise integrations that connect commerce, data, operations, and digital products.
+
+I specialize in turning complex enterprise requirements into resilient, observable, and production-ready architectures across backend, frontend, integration, cloud, DevOps, and platform engineering.
+
+My focus is on solution architecture, event-driven systems, enterprise commerce, SaaS platforms, and building systems that scale reliably across teams, markets, and business domains.
+
+---
+
+  Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
 
 <a href="https://www.sanukhan.dev/"><img src="https://img.shields.io/badge/Portfolio-SanuKhan.dev-1f9f45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sanukhandev/"><img src="https://img.shields.io/badge/LinkedIn-sanukhandev-1f9f45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,15 +25,6 @@ Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
 
 </div>
 
----
-
-I design and lead scalable cloud-native platforms, distributed systems, and enterprise integrations that connect commerce, data, operations, and digital products.
-
-I specialize in turning complex enterprise requirements into resilient, observable, and production-ready architectures across backend, frontend, integration, cloud, DevOps, and platform engineering.
-
-My focus is on solution architecture, event-driven systems, enterprise commerce, SaaS platforms, and building systems that scale reliably across teams, markets, and business domains.
-
----
 
 ## Highlights
 
