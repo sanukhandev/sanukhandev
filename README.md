@@ -1,8 +1,6 @@
 <div align="center">
 
 # <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=1F9F45&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Sanu+Khan+%7C+%D9%85%D9%87%D9%86%D8%AF%D8%B3" alt="Sanu Khan | مهندس" />
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=1200&color=1F9F45&center=true&vCenter=true&width=760&height=34&lines=Tech+Lead;Cloud+Architect;Enterprise+Integration+Specialist;Solution+Architect;Full-Stack+Engineer" alt="Animated role showcase" />
 
 Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
@@ -10,7 +8,7 @@ Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
 <a href="https://www.sanukhan.dev/"><img src="https://img.shields.io/badge/Portfolio-SanuKhan.dev-1f9f45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sanukhandev/"><img src="https://img.shields.io/badge/LinkedIn-sanukhandev-1f9f45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://dev.to/sanukhandev"><img src="https://img.shields.io/badge/Articles-DEV-1f9f45?style=for-the-badge&logo=devdotto&logoColor=white" alt="Articles" /></a>
-<a href="mailto:khan.sanukhan@outlook.com?subject=Hire%20Inquiry%20%E2%80%93%20SanuKhan.dev"><img src="https://img.shields.io/badge/Email-Outlook-1f9f45?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+<a href="mailto:hello@sanukhan.dev?subject=Hire%20Inquiry%20%E2%80%93%20SanuKhan.dev"><img src="https://img.shields.io/badge/Email-Outlook-1f9f45?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=sanukhandev&label=Profile%20Views&color=1f9f45&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/badge/Role-Tech%20Lead-1f9f45?style=flat-square" alt="Tech Lead" />
