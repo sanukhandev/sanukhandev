@@ -1,37 +1,33 @@
 <div align="center">
 
-# Sanu Khan
+# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=1F9F45&center=true&vCenter=true&repeat=false&width=320&height=40&lines=SanuKhan.dev" alt="SanuKhan.dev" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1200&color=1F9F45&center=true&vCenter=true&width=760&height=35&lines=Tech+Lead+%7C+Cloud+Architect+%7C+Enterprise+Integration+Specialist" alt="Tech Lead | Cloud Architect | Enterprise Integration Specialist" />
+<h3>Sanu Khan | مهندس</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=1200&color=1F9F45&center=true&vCenter=true&width=760&height=34&lines=Tech+Lead;Cloud+Architect;Enterprise+Integration+Specialist;Solution+Architect;Full-Stack+Engineer" alt="Animated role showcase" />
 
 Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
 
-<br/>
-
-<a href="https://www.sanukhan.dev/"><img src="https://img.shields.io/badge/Portfolio-1f9f45?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/sanukhandev/"><img src="https://img.shields.io/badge/LinkedIn-1f9f45?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://dev.to/sanukhandev"><img src="https://img.shields.io/badge/Articles-1f9f45?style=flat-square&logo=devdotto&logoColor=white" alt="Articles" /></a>
-<a href="mailto:khan.sanukhan@outlook.com?subject=Hire%20Inquiry%20%E2%80%93%20SanuKhan.dev"><img src="https://img.shields.io/badge/Email-1f9f45?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-
-<br/>
+<a href="https://www.sanukhan.dev/"><img src="https://img.shields.io/badge/Portfolio-SanuKhan.dev-1f9f45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sanukhandev/"><img src="https://img.shields.io/badge/LinkedIn-sanukhandev-1f9f45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://dev.to/sanukhandev"><img src="https://img.shields.io/badge/Articles-DEV-1f9f45?style=for-the-badge&logo=devdotto&logoColor=white" alt="Articles" /></a>
+<a href="mailto:khan.sanukhan@outlook.com?subject=Hire%20Inquiry%20%E2%80%93%20SanuKhan.dev"><img src="https://img.shields.io/badge/Email-Outlook-1f9f45?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=sanukhandev&label=Profile%20Views&color=1f9f45&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/badge/Role-Tech%20Lead-1f9f45?style=flat-square" alt="Tech Lead" />
-<img src="https://img.shields.io/badge/Focus-Cloud%20Architecture-1f9f45?style=flat-square" alt="Cloud Architecture" />
-<img src="https://img.shields.io/badge/Speciality-Enterprise%20Integrations-1f9f45?style=flat-square" alt="Enterprise Integrations" />
 <img src="https://img.shields.io/badge/Base-Dubai%2C%20UAE-1f9f45?style=flat-square" alt="Dubai UAE" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/13%2B%20Years-Software%20Engineering-1f9f45?style=for-the-badge" alt="13+ years" />
-<img src="https://img.shields.io/badge/100%2B-Solutions%20Delivered-1f9f45?style=for-the-badge" alt="100+ solutions delivered" />
-<img src="https://img.shields.io/badge/800K%2B-Products%20at%20Scale-1f9f45?style=for-the-badge" alt="800K+ products" />
+<img src="https://img.shields.io/badge/Experience-13%2B%20Years-1f9f45?style=flat-square" alt="13+ Years" />
+<img src="https://img.shields.io/badge/Delivery-100%2B%20Solutions-1f9f45?style=flat-square" alt="100+ Solutions" />
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Architecture-first%20execution&fontSize=28&color=0:1f9f45,100:0d5c26&fontColor=ffffff&animation=fadeIn&stroke=1f9f45&desc=Production-grade%20delivery%20for%20cloud,%20commerce,%20and%20enterprise%20integration&descAlignY=68&descAlign=50" alt="Architecture-first execution" />
+</div>
+
+## Overview
 
 I design and deliver scalable distributed systems, cloud-native platforms, and enterprise integrations that connect commerce, data, operations, and customer-facing digital products across global markets.
 
@@ -41,251 +37,387 @@ Currently, my focus is on solution architecture, platform engineering, event-dri
 
 ---
 
-## Impact Snapshot
+## Highlights
 
-| Area | Highlight |
-| --- | --- |
-| Professional Experience | **13+ years** |
-| Software Solutions Delivered | **100+** |
-| Markets Supported | **9** |
-| Large Catalog Systems | **800K+ products** |
-| Current Base | **Dubai, UAE** |
-| Signature Work | **ZaaKiyV3RSE** and enterprise-scale integration platforms |
+<div align="center">
+  <img src="https://img.shields.io/badge/Professional%20Experience-13%2B%20years-1f9f45?style=for-the-badge" alt="Professional Experience 13+ years" />
+  <img src="https://img.shields.io/badge/Software%20Solutions%20Delivered-100%2B-1f9f45?style=for-the-badge" alt="Software Solutions Delivered 100+" />
+  <img src="https://img.shields.io/badge/Markets%20Supported-9-1f9f45?style=for-the-badge" alt="Markets Supported 9" />
+  <img src="https://img.shields.io/badge/Large%20Catalog%20Systems-800K%2B%20products-1f9f45?style=for-the-badge" alt="Large Catalog Systems 800K+ products" />
+  <img src="https://img.shields.io/badge/Current%20Base-Dubai%2C%20UAE-1f9f45?style=for-the-badge" alt="Current Base Dubai, UAE" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Anta&weight=700&size=22&duration=2600&pause=1200&color=1F9F45&center=true&vCenter=true&width=640&height=46&lines=ZaakiyV3RSE;Enterprise-scale+integration+platforms" alt="ZaakiyV3RSE animated highlight" />
+</div>
 
 ---
 
+## Service Areas
+
 <details open>
-<summary><strong>What I Build</strong></summary>
+<summary><strong>Enterprise Integrations</strong></summary>
+<br/>
+SAP, PIM, Shopify, Kibo, pricing, inventory, catalog, and marketplace workflows connected through stable APIs and events.
+</details>
 
-| Capability | What I Deliver |
-| --- | --- |
-| **Enterprise Integrations** | SAP, PIM, Shopify, Kibo, pricing, inventory, catalog, and marketplace workflows connected through stable APIs and events. |
-| **Cloud Architecture** | Azure-first and multi-cloud platforms designed for scale, resilience, security, and operational visibility. |
-| **Event-Driven Systems** | Kafka, Azure Event Hubs, RabbitMQ, serverless orchestration, and near real-time business workflows. |
-| **SaaS Platforms** | Multi-tenant foundations with tenant isolation, API boundaries, RBAC, scalable data models, and deployment-ready architecture. |
-| **Full-Stack Products** | Backend services, frontend systems, dashboards, developer tools, APIs, and CI/CD pipelines. |
-| **Platform Modernization** | Incremental modernization of legacy systems without disrupting production operations. |
+<details open>
+<summary><strong>Cloud Architecture</strong></summary>
+<br/>
+Azure-first and multi-cloud platforms designed for scale, resilience, security, and operational visibility.
+</details>
 
+<details open>
+<summary><strong>Event-Driven Systems</strong></summary>
+<br/>
+Kafka, Azure Event Hubs, RabbitMQ, serverless orchestration, and near real-time business workflows.
+</details>
+
+<details>
+<summary><strong>SaaS Platforms</strong></summary>
+<br/>
+Multi-tenant foundations with tenant isolation, API boundaries, RBAC, scalable data models, and deployment-ready architecture.
+</details>
+
+<details>
+<summary><strong>Full-Stack Products</strong></summary>
+<br/>
+Backend services, frontend systems, dashboards, developer tools, APIs, and CI/CD pipelines.
+</details>
+
+<details>
+<summary><strong>Platform Modernization</strong></summary>
+<br/>
+Incremental modernization of legacy systems without disrupting production operations.
 </details>
 
 ---
 
-<details open>
-<summary><strong>GitHub Stack Showcase</strong></summary>
+## Stack Showcase
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-1f9f45?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-1f9f45?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-1f9f45?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-1f9f45?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Laravel-1f9f45?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-1f9f45?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,laravel,python,react,nextjs,ts,tailwind,angular,azure,aws,gcp,kubernetes,docker,terraform,postgres,supabase,kafka,rabbitmq&theme=light" alt="Technology icons" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-1f9f45?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-1f9f45?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-1f9f45?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-1f9f45?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Angular-1f9f45?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-1f9f45?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/AWS-1f9f45?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-1f9f45?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Kubernetes-1f9f45?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-1f9f45?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-1f9f45?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-1f9f45?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<div align="center">
   <img src="https://img.shields.io/badge/Cosmos%20DB-1f9f45?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cosmos DB" />
-  <img src="https://img.shields.io/badge/Supabase-1f9f45?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Kafka-1f9f45?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-1f9f45?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Event%20Hubs-1f9f45?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Event Hubs" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Azure%20Event%20Hubs-1f9f45?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Event Hubs" />
   <img src="https://img.shields.io/badge/SharePoint-1f9f45?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
   <img src="https://img.shields.io/badge/Power%20Apps-1f9f45?style=flat-square&logo=powerapps&logoColor=white" alt="Power Apps" />
   <img src="https://img.shields.io/badge/Power%20Automate-1f9f45?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
   <img src="https://img.shields.io/badge/Shopify-1f9f45?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/SAP-1f9f45?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
-</p>
-
-</details>
+</div>
 
 ---
 
-<details open>
-<summary><strong>GitHub Activity</strong></summary>
+## GitHub Activity Tracker
 
-<p align="center">
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanukhandev&show_icons=true&hide_border=true&rank_icon=github&title_color=1f9f45&icon_color=1f9f45&text_color=6e7781&bg_color=00000000" alt="Sanu Khan GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanukhandev&layout=compact&hide_border=true&title_color=1f9f45&text_color=6e7781&bg_color=00000000" alt="Top languages" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=sanukhandev&hide_border=true&ring=1F9F45&fire=1F9F45&currStreakLabel=1F9F45&sideLabels=6E7781&dates=6E7781&currStreakNum=1F9F45&sideNums=6E7781" alt="GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanukhandev&bg_color=00000000&color=1f9f45&line=1f9f45&point=6e7781&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanukhandev&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
-</p>
+</div>
 
-> Note: GitHub stats are generated dynamically from public repository data and may vary based on GitHub API limits, private repository visibility, and third-party widget availability.
+> GitHub stats are generated dynamically from public repository data and may vary based on API limits, private repository visibility, and third-party widget availability.
+
+---
+
+## Current Engineering Focus
+
+<details open>
+<summary><strong>Focus Areas</strong></summary>
+<br/>
+
+- Cloud Architecture        ████████████████████
+- Enterprise Integration    ████████████████████
+- Event-Driven Systems      ███████████████████░
+- SaaS Platform Design      ███████████████████░
+- Full-Stack Engineering    ██████████████████░░
+- DevOps & Observability    ██████████████████░░
 
 </details>
 
 ---
 
-<details>
-<summary><strong>Current Engineering Focus</strong></summary>
+## Core Technology Stack
 
-```txt
-Cloud Architecture        ████████████████████
-Enterprise Integration    ████████████████████
-Event-Driven Systems      ███████████████████░
-SaaS Platform Design      ███████████████████░
-Full-Stack Engineering    ██████████████████░░
-DevOps & Observability    ██████████████████░░
-```
+<details open>
+<summary><strong>Cloud</strong></summary>
+<br/>
+Azure, AWS, GCP, Serverless, Multi-Region Architecture
+</details>
+
+<details open>
+<summary><strong>Backend</strong></summary>
+<br/>
+Java, Spring Boot, Node.js, NestJS, Laravel, REST, GraphQL, Contract-Driven APIs
+</details>
+
+<details open>
+<summary><strong>Frontend</strong></summary>
+<br/>
+React, Next.js, TypeScript, Tailwind CSS, Design Systems, Performance Optimization
+</details>
+
+<details>
+<summary><strong>Data</strong></summary>
+<br/>
+PostgreSQL, SQL, Cosmos DB, API Data Contracts, Catalog & Product Data Models
+</details>
+
+<details>
+<summary><strong>Messaging</strong></summary>
+<br/>
+Kafka, Azure Event Hubs, RabbitMQ, Event-Driven Architecture
+</details>
+
+<details>
+<summary><strong>DevOps</strong></summary>
+<br/>
+Kubernetes, Docker, CI/CD, Terraform, Observability, Cloud-Native Operations
+</details>
+
+<details>
+<summary><strong>Enterprise Platforms</strong></summary>
+<br/>
+SAP, Shopify, Kibo, PIM, ERP, Marketplace Integrations
+</details>
+
+<details>
+<summary><strong>Microsoft 365</strong></summary>
+<br/>
+SharePoint, SPFx, Power Apps, Power Automate, Power Pages, Microsoft Graph
+</details>
+
+---
+
+## Selected Work
+
+<details open>
+<summary><strong>Retail Event-Driven Platform</strong></summary>
+<br/>
+<strong>Challenge:</strong> Keep product, pricing, inventory, and catalog data consistent across multiple markets and systems.
+<br/>
+<strong>Approach:</strong> Designed event pipelines using Kafka, Azure Event Hubs, and integration services.
+<br/>
+<strong>Outcome:</strong> Enabled near real-time consistency for enterprise commerce operations at <strong>800K+ product</strong> scale.
+</details>
+
+<details>
+<summary><strong>Enterprise PIM Integration Suite</strong></summary>
+<br/>
+<strong>Challenge:</strong> Reduce errors and manual intervention across large catalog publication cycles.
+<br/>
+<strong>Approach:</strong> Built serverless orchestration with Azure Functions and contract-driven payload validation.
+<br/>
+<strong>Outcome:</strong> Improved data integrity and made downstream commerce publishing more reliable.
+</details>
+
+<details>
+<summary><strong>Multi-Tenant SaaS Platform Core</strong></summary>
+<br/>
+<strong>Challenge:</strong> Improve product scalability while maintaining tenant-level governance.
+<br/>
+<strong>Approach:</strong> Designed tenancy-aware models, service boundaries, API contracts, and isolation controls.
+<br/>
+<strong>Outcome:</strong> Built a scalable foundation for CRM, automation, messaging, and business workflow modules.
+</details>
+
+<details>
+<summary><strong>Airline Marketplace Capabilities</strong></summary>
+<br/>
+<strong>Challenge:</strong> Support multi-supplier content, pricing, booking, and ticketing workflows.
+<br/>
+<strong>Approach:</strong> Built Node.js microservices, Java services, and structured NDC-oriented data contracts.
+<br/>
+<strong>Outcome:</strong> Delivered scalable marketplace capabilities for airline B2B use cases.
+</details>
+
+<details>
+<summary><strong>Developer Productivity Tools</strong></summary>
+<br/>
+<strong>Challenge:</strong> Reduce dependency on scattered online utilities for formatting, conversion, API testing, and debugging.
+<br/>
+<strong>Approach:</strong> Built browser-first utility and API workflows focused on privacy, speed, and local execution.
+<br/>
+<strong>Outcome:</strong> Improved developer productivity while keeping sensitive data local.
+</details>
+
+---
+
+## Professional Experience
+
+<details open>
+<summary><strong>Feb 2022 – Present · TechCarrot LLC / Al-Futtaim EIT Client, Dubai · Tech Lead & Solution Architect</strong></summary>
+<br/>
+Enterprise PIM integrations, event-driven retail platforms, SAP–PIM–Shopify–Kibo flows, Azure Functions, Kubernetes, and architecture leadership.
+</details>
+
+<details>
+<summary><strong>Oct 2021 – Jan 2022 · 28 Light Bulbs, Dubai · Frontend & Full Stack Engineer</strong></summary>
+<br/>
+ERP and project management platforms, Laravel, Angular, workflow-heavy UI modules, and NgRx-based frontend architecture.
+</details>
+
+<details>
+<summary><strong>Mar 2021 – Oct 2021 · TP Connects Technologies, Dubai · Full Stack & Platform Engineer</strong></summary>
+<br/>
+Airline B2B marketplace systems, supplier aggregation, Node.js microservices, Java backends, and NDC content flows.
+</details>
+
+<details>
+<summary><strong>Sep 2016 – Dec 2020 · Candour Automation, India · R&D Engineer</strong></summary>
+<br/>
+Video conferencing, ERP, asset management, roadside assistance, e-commerce, Android, Django, Spring Boot, PHP, and PostgreSQL systems.
+</details>
+
+<details>
+<summary><strong>2010 – Present · Freelance & Independent Consulting, Remote / Global · Solution Architect & Full Stack Consultant</strong></summary>
+<br/>
+100+ solutions across ERP, SaaS, e-commerce, LMS, AI chatbot, automation, integrations, and cloud delivery.
+</details>
+
+<details>
+<summary><strong>2010 – 2016 · Early Career, India · Network & Systems Engineer</strong></summary>
+<br/>
+Network infrastructure, routing, Linux systems, security operations, and reliability foundations.
+</details>
+
+---
+
+## Architecture Principles
+
+<details open>
+<summary><strong>Architecture Before Scale</strong></summary>
+<br/>
+Define service ownership, API contracts, event schemas, and operational responsibilities before implementation grows.
+</details>
+
+<details>
+<summary><strong>Operational Visibility</strong></summary>
+<br/>
+Build systems with logging, metrics, tracing, alerting, and failure-mode awareness from the beginning.
+</details>
+
+<details>
+<summary><strong>Automation First</strong></summary>
+<br/>
+Use CI/CD, infrastructure-as-code, repeatable deployments, and validation pipelines to reduce manual risk.
+</details>
+
+<details>
+<summary><strong>Pragmatic Modernization</strong></summary>
+<br/>
+Improve legacy and enterprise systems incrementally without disrupting critical business operations.
+</details>
+
+<details>
+<summary><strong>Secure by Design</strong></summary>
+<br/>
+Treat identity, access control, secrets, transport security, data validation, and auditability as core system requirements.
+</details>
+
+<details>
+<summary><strong>Production Mindset</strong></summary>
+<br/>
+Optimize for reliability, maintainability, graceful failure, and long-term ownership.
+</details>
+
+---
+
+## Technical Writing
+
+<details open>
+<summary><strong>Article Index</strong></summary>
+<br/>
+
+- [API Gateway: The Bouncer Your Microservices Didn't Know They Needed](https://dev.to/sanukhandev/api-gateway-the-bouncer-your-microservices-didnt-know-they-needed-1j0e)
+- [DuckDB: The SQLite of Analytics You Didn't Know You Needed](https://dev.to/sanukhandev/duckdb-the-sqlite-of-analytics-you-didnt-know-you-needed-579m)
+- [JavaScript Proxy Explained: Powerful Tips for Dynamic Object Handling](https://dev.to/sanukhandev/unmasking-javascript-proxies-the-secret-agents-of-your-objects-4eac)
+- [Building a Cost-Effective Full-Stack SaaS Platform](https://dev.to/sanukhandev/building-a-cost-effective-full-stack-saas-platform-a-practical-guide-for-small-to-mid-size-it-2d44)
+- [A Comprehensive Guide to Big O Notation and Efficient Coding Practices](https://dev.to/sanukhandev/a-comprehensive-guide-to-big-o-notation-and-efficient-coding-practices-with-examples-44n2)
+- [The Sliding Window Technique: A Powerful Algorithm for JavaScript Developers](https://dev.to/sanukhandev/the-sliding-window-technique-a-powerful-algorithm-for-javascript-developers-3nfm)
 
 </details>
 
 ---
 
-<details>
-<summary><strong>Core Technology Stack</strong></summary>
+## Certifications
 
-| Category | Tools & Platforms |
-| --- | --- |
-| **Cloud** | Azure, AWS, GCP, Serverless, Multi-Region Architecture |
-| **Backend** | Java, Spring Boot, Node.js, NestJS, Laravel, REST, GraphQL, Contract-Driven APIs |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Design Systems, Performance Optimization |
-| **Data** | PostgreSQL, SQL, Cosmos DB, API Data Contracts, Catalog & Product Data Models |
-| **Messaging** | Kafka, Azure Event Hubs, RabbitMQ, Event-Driven Architecture |
-| **DevOps** | Kubernetes, Docker, CI/CD, Terraform, Observability, Cloud-Native Operations |
-| **Enterprise Platforms** | SAP, Shopify, Kibo, PIM, ERP, Marketplace Integrations |
-| **Microsoft 365** | SharePoint, SPFx, Power Apps, Power Automate, Power Pages, Microsoft Graph |
+<details open>
+<summary><strong>Credential List</strong></summary>
+<br/>
 
-</details>
-
----
-
-<details>
-<summary><strong>Selected Work</strong></summary>
-
-| Project Area | Challenge | Approach | Outcome |
-| --- | --- | --- | --- |
-| **Retail Event-Driven Platform** | Keep product, pricing, inventory, and catalog data consistent across multiple markets and systems. | Designed event pipelines using Kafka, Azure Event Hubs, and integration services. | Enabled near real-time consistency for enterprise commerce operations at **800K+ product** scale. |
-| **Enterprise PIM Integration Suite** | Reduce errors and manual intervention across large catalog publication cycles. | Built serverless orchestration with Azure Functions and contract-driven payload validation. | Improved data integrity and made downstream commerce publishing more reliable. |
-| **Multi-Tenant SaaS Platform Core** | Improve product scalability while maintaining tenant-level governance. | Designed tenancy-aware models, service boundaries, API contracts, and isolation controls. | Built a scalable foundation for CRM, automation, messaging, and business workflow modules. |
-| **Airline Marketplace Capabilities** | Support multi-supplier content, pricing, booking, and ticketing workflows. | Built Node.js microservices, Java services, and structured NDC-oriented data contracts. | Delivered scalable marketplace capabilities for airline B2B use cases. |
-| **Developer Productivity Tools** | Reduce dependency on scattered online utilities for formatting, conversion, API testing, and debugging. | Built browser-first utility and API workflows focused on privacy, speed, and local execution. | Improved developer productivity while keeping sensitive data local. |
+- Introduction to Cyber Security — Simplilearn — Apr 2023
+- Python Basic — HackerRank — Jan 2022
+- SQL Intermediate — HackerRank — Feb 2022
+- React Basic — HackerRank — Feb 2022
+- Problem Solving Intermediate — HackerRank — Feb 2022
+- React - The Complete Guide — Udemy — Jan 2022
 
 </details>
 
 ---
 
+## Collaboration Fit
+
+<details open>
+<summary><strong>Architecture Leadership</strong></summary>
+<br/>
+Technical discovery, platform direction, service decomposition, cloud strategy, and architecture decision records.
+</details>
+
 <details>
-<summary><strong>Professional Experience</strong></summary>
+<summary><strong>Integration Delivery</strong></summary>
+<br/>
+Event-driven workflows, API contracts, ERP/PIM/commerce integrations, and data synchronization.
+</details>
 
-| Period | Organization | Role | Focus |
-| --- | --- | --- | --- |
-| **Feb 2022 – Present** | TechCarrot LLC / Al-Futtaim EIT Client, Dubai | Tech Lead & Solution Architect | Enterprise PIM integrations, event-driven retail platforms, SAP–PIM–Shopify–Kibo flows, Azure Functions, Kubernetes, and architecture leadership. |
-| **Oct 2021 – Jan 2022** | 28 Light Bulbs, Dubai | Frontend & Full Stack Engineer | ERP and project management platforms, Laravel, Angular, workflow-heavy UI modules, and NgRx-based frontend architecture. |
-| **Mar 2021 – Oct 2021** | TP Connects Technologies, Dubai | Full Stack & Platform Engineer | Airline B2B marketplace systems, supplier aggregation, Node.js microservices, Java backends, and NDC content flows. |
-| **Sep 2016 – Dec 2020** | Candour Automation, India | R&D Engineer | Video conferencing, ERP, asset management, roadside assistance, e-commerce, Android, Django, Spring Boot, PHP, and PostgreSQL systems. |
-| **2010 – Present** | Freelance & Independent Consulting, Remote / Global | Solution Architect & Full Stack Consultant | 100+ solutions across ERP, SaaS, e-commerce, LMS, AI chatbot, automation, integrations, and cloud delivery. |
-| **2010 – 2016** | Early Career, India | Network & Systems Engineer | Network infrastructure, routing, Linux systems, security operations, and reliability foundations. |
+<details>
+<summary><strong>Cloud Modernization</strong></summary>
+<br/>
+Containerization, serverless migration, CI/CD, observability, reliability, and infrastructure automation.
+</details>
 
+<details>
+<summary><strong>Product Engineering</strong></summary>
+<br/>
+SaaS foundations, full-stack implementation, performance improvements, and production support models.
+</details>
+
+<details>
+<summary><strong>Developer Enablement</strong></summary>
+<br/>
+Internal tools, API platforms, workflow automation, technical documentation, and engineering process improvement.
 </details>
 
 ---
 
-<details>
-<summary><strong>Architecture Principles</strong></summary>
+## Connect
 
-| Principle | How I Apply It |
-| --- | --- |
-| **Architecture Before Scale** | Define service ownership, API contracts, event schemas, and operational responsibilities before implementation grows. |
-| **Operational Visibility** | Build systems with logging, metrics, tracing, alerting, and failure-mode awareness from the beginning. |
-| **Automation First** | Use CI/CD, infrastructure-as-code, repeatable deployments, and validation pipelines to reduce manual risk. |
-| **Pragmatic Modernization** | Improve legacy and enterprise systems incrementally without disrupting critical business operations. |
-| **Secure by Design** | Treat identity, access control, secrets, transport security, data validation, and auditability as core system requirements. |
-| **Production Mindset** | Optimize for reliability, maintainability, graceful failure, and long-term ownership. |
-
-</details>
-
----
-
-<details>
-<summary><strong>Technical Writing</strong></summary>
-
-| Topic | Article |
-| --- | --- |
-| Microservices | [API Gateway: The Bouncer Your Microservices Didn't Know They Needed](https://dev.to/sanukhandev/api-gateway-the-bouncer-your-microservices-didnt-know-they-needed-1j0e) |
-| Analytics | [DuckDB: The SQLite of Analytics You Didn't Know You Needed](https://dev.to/sanukhandev/duckdb-the-sqlite-of-analytics-you-didnt-know-you-needed-579m) |
-| JavaScript | [JavaScript Proxy Explained: Powerful Tips for Dynamic Object Handling](https://dev.to/sanukhandev/unmasking-javascript-proxies-the-secret-agents-of-your-objects-4eac) |
-| SaaS | [Building a Cost-Effective Full-Stack SaaS Platform](https://dev.to/sanukhandev/building-a-cost-effective-full-stack-saas-platform-a-practical-guide-for-small-to-mid-size-it-2d44) |
-| Algorithms | [A Comprehensive Guide to Big O Notation and Efficient Coding Practices](https://dev.to/sanukhandev/a-comprehensive-guide-to-big-o-notation-and-efficient-coding-practices-with-examples-44n2) |
-| Algorithms | [The Sliding Window Technique: A Powerful Algorithm for JavaScript Developers](https://dev.to/sanukhandev/the-sliding-window-technique-a-powerful-algorithm-for-javascript-developers-3nfm) |
-
-</details>
-
----
-
-<details>
-<summary><strong>Certifications</strong></summary>
-
-| Certification | Provider | Date |
-| --- | --- | --- |
-| Introduction to Cyber Security | Simplilearn | Apr 2023 |
-| Python Basic | HackerRank | Jan 2022 |
-| SQL Intermediate | HackerRank | Feb 2022 |
-| React Basic | HackerRank | Feb 2022 |
-| Problem Solving Intermediate | HackerRank | Feb 2022 |
-| React - The Complete Guide | Udemy | Jan 2022 |
-
-</details>
-
----
-
-<details>
-<summary><strong>Collaboration Fit</strong></summary>
-
-| If You Need | I Can Help With |
-| --- | --- |
-| **Architecture Leadership** | Technical discovery, platform direction, service decomposition, cloud strategy, and architecture decision records. |
-| **Integration Delivery** | Event-driven workflows, API contracts, ERP/PIM/commerce integrations, and data synchronization. |
-| **Cloud Modernization** | Containerization, serverless migration, CI/CD, observability, reliability, and infrastructure automation. |
-| **Product Engineering** | SaaS foundations, full-stack implementation, performance improvements, and production support models. |
-| **Developer Enablement** | Internal tools, API platforms, workflow automation, technical documentation, and engineering process improvement. |
-
-</details>
-
----
-
-<details>
-<summary><strong>Connect</strong></summary>
-
-| Channel | Link |
-| --- | --- |
-| Portfolio | [sanukhan.dev](https://www.sanukhan.dev/) |
-| Email | [khan.sanukhan@outlook.com](mailto:khan.sanukhan@outlook.com?subject=Hire%20Inquiry%20%E2%80%93%20SanuKhan.dev) |
-| LinkedIn | [linkedin.com/in/sanukhandev](https://www.linkedin.com/in/sanukhandev/) |
-| GitHub | [github.com/sanukhandev](https://github.com/sanukhandev) |
-| Dev.to | [dev.to/sanukhandev](https://dev.to/sanukhandev) |
-| Stack Overflow | [stackoverflow.com/users/8219738/sanu-khan](https://stackoverflow.com/users/8219738/sanu-khan) |
-| Medium | [medium.com/@sanukhandev](https://medium.com/@sanukhandev) |
-| X | [x.com/sanukhandev](https://x.com/sanukhandev) |
-| YouTube | [youtube.com/@sanukhan2653](https://www.youtube.com/@sanukhan2653) |
-
-</details>
+<div align="center">
+  <a href="https://www.sanukhan.dev/"><img src="https://img.shields.io/badge/Portfolio-sanukhan.dev-1f9f45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:khan.sanukhan@outlook.com?subject=Hire%20Inquiry%20%E2%80%93%20SanuKhan.dev"><img src="https://img.shields.io/badge/Email-khan.sanukhan%40outlook.com-1f9f45?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sanukhandev/"><img src="https://img.shields.io/badge/LinkedIn-sanukhandev-1f9f45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sanukhandev"><img src="https://img.shields.io/badge/GitHub-sanukhandev-1f9f45?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://dev.to/sanukhandev"><img src="https://img.shields.io/badge/Dev.to-sanukhandev-1f9f45?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://stackoverflow.com/users/8219738/sanu-khan"><img src="https://img.shields.io/badge/Stack%20Overflow-Sanu%20Khan-1f9f45?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://medium.com/@sanukhandev"><img src="https://img.shields.io/badge/Medium-sanukhandev-1f9f45?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://x.com/sanukhandev"><img src="https://img.shields.io/badge/X-sanukhandev-1f9f45?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/@sanukhan2653"><img src="https://img.shields.io/badge/YouTube-sanukhan2653-1f9f45?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</div>
 
 ---
 
