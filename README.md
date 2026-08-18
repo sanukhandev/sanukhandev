@@ -126,7 +126,7 @@ Incremental modernization of legacy systems without disrupting production operat
 
 <div align="center">
   <img
-    src="https://github-profile-trophy-ruddy.vercel.app/?username=sanukhandev&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=4"
+    src="https://github-profile-trophy-ruddy.vercel.app/?username=sanukhandev&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=5"
     alt="GitHub trophies"
   />
 </div>
