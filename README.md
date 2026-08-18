@@ -233,7 +233,7 @@ DevOps & Observability    ██████████████████
 | JavaScript | [JavaScript Proxy Explained: Powerful Tips for Dynamic Object Handling](https://dev.to/sanukhandev/unmasking-javascript-proxies-the-secret-agents-of-your-objects-4eac) |
 | SaaS | [Building a Cost-Effective Full-Stack SaaS Platform](https://dev.to/sanukhandev/building-a-cost-effective-full-stack-saas-platform-a-practical-guide-for-small-to-mid-size-it-2d44) |
 | Algorithms | [A Comprehensive Guide to Big O Notation and Efficient Coding Practices](https://dev.to/sanukhandev/a-comprehensive-guide-to-big-o-notation-and-efficient-coding-practices-with-examples-44n2) |
-| Algorithms | [The Sliding Window Technique: A Powerful Algorithm for JavaScript Developers](https://dev.to/sanukhandev/the-sliding-window-technique-a-powerful-algorithm-for-javaScript-developers-3nfm) |
+| Algorithms | [The Sliding Window Technique: A Powerful Algorithm for JavaScript Developers](https://dev.to/sanukhandev/the-sliding-window-technique-a-powerful-algorithm-for-javascript-developers-3nfm) |
 
 </details>
 
