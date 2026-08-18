@@ -20,19 +20,11 @@ Dubai, UAE · 13+ Years in Software Engineering · 100+ Solutions Delivered
 
 ---
 
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=0:1f9f45,100:0d5c26&text=Architecture-first%20execution&fontColor=ffffff&fontSize=28&animation=fadeIn&desc=Production-grade%20delivery%20for%20cloud,%20commerce,%20and%20enterprise%20integration&descSize=14&descAlignY=72"
-    alt="Architecture-first execution"
-  />
-</div>
+I design and lead scalable cloud-native platforms, distributed systems, and enterprise integrations that connect commerce, data, operations, and digital products.
 
+I specialize in turning complex enterprise requirements into resilient, observable, and production-ready architectures across backend, frontend, integration, cloud, DevOps, and platform engineering.
 
-I design and deliver scalable distributed systems, cloud-native platforms, and enterprise integrations that connect commerce, data, operations, and customer-facing digital products across global markets.
-
-My core strength is turning complex enterprise workflows into reliable, observable, and production-ready systems. I work across architecture, backend engineering, frontend delivery, integrations, cloud infrastructure, DevOps, and platform modernization.
-
-Currently, my focus is on solution architecture, platform engineering, event-driven systems, enterprise commerce integrations, and SaaS product development.
+My focus is on solution architecture, event-driven systems, enterprise commerce, SaaS platforms, and building systems that scale reliably across teams, markets, and business domains.
 
 ---
 
