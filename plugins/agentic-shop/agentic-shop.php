@@ -19,7 +19,7 @@ defined( 'ABSPATH' ) || exit;
 function agentic_shop_display_featured_badge() {
 	global $product;
 
-	if ( ! $product instanceof WC_Product || ! $product->is_featured() ) {
+	if ( !( $product instanceof WC_Product ) || ! $product->is_featured() ) {
 		return;
 	}
 
