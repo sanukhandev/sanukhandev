@@ -2,7 +2,11 @@
 title: "Your Code Isn't Clean If Someone Has to Decode It"
 published: false
 description: "Clean code isn't about clever syntax. Learn how intention-revealing names, readable TypeScript, and better code reviews reduce cognitive load and maintenance costs."
-tags: cleancode, javascript, programming, productivity
+tags:
+  - cleancode
+  - javascript
+  - programming
+  - productivity
 ---
 
 > Code is written once, but read hundreds of times. If a developer has to decode what a variable means, the code is already making their job harder.
