@@ -171,6 +171,7 @@ def publish(paths):
 
     api = Devto()
     api.check_account()
+    published_records = []
     for path, meta, body in selected:
         marker = marker_for(path)
         final_body = body.rstrip() + "\n\n" + marker + "\n"
@@ -193,6 +194,31 @@ def publish(paths):
             print(f"PUBLISHED: {path} -> {result.get('url')}")
             api.index.append(result)
             api.details[result["id"]] = result
+
+        # DEV.to can append a suffix to a requested slug. Always use its
+        # returned URL rather than guessing from the Markdown filename.
+        from urllib.parse import urlparse
+        devto_url = result.get("url", "")
+        parsed = urlparse(devto_url)
+        if parsed.scheme != "https" or parsed.hostname != "dev.to":
+            raise RuntimeError(f"Unexpected DEV.to article URL: {devto_url!r}")
+        slug = parsed.path.rstrip("/").split("/")[-1]
+        if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug):
+            raise RuntimeError(f"Unexpected DEV.to article slug: {slug!r}")
+        published_records.append({
+            "source": path.as_posix(),
+            "title": meta["title"],
+            "slug": slug,
+            "devto_url": devto_url,
+            "portfolio_url": f"https://www.sanukhan.dev/blog/{slug}",
+        })
+        print(f"PORTFOLIO: https://www.sanukhan.dev/blog/{slug}")
+
+    manifest_path = os.environ.get("DEVTO_PUBLISHED_MANIFEST")
+    if manifest_path:
+        Path(manifest_path).write_text(
+            json.dumps(published_records, indent=2) + "\n", encoding="utf-8"
+        )
 
 
 def main():
