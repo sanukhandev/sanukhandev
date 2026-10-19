@@ -201,6 +201,7 @@ def main():
     modes.add_argument("--validate", action="store_true")
     modes.add_argument("--publish-changed", action="store_true")
     modes.add_argument("--publish-all", action="store_true")
+    modes.add_argument("--check-auth", action="store_true")
     args = parser.parse_args()
 
     if args.validate:
@@ -208,6 +209,9 @@ def main():
         for path in files:
             read_post(path)
         print(f"Validated {len(files)} article(s).")
+    elif args.check_auth:
+        Devto().check_account()
+        print("DEV.to API key is valid for the expected account. No articles were published.")
     elif args.publish_changed:
         publish(changed_posts())
     else:
