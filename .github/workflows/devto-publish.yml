@@ -7,6 +7,8 @@ on:
     branches: [main]
     paths:
       - 'posts/**/*.md'
+      - 'scripts/devto_publish.py'
+      - 'scripts/linkedin_drafts.py'
   workflow_dispatch:
     inputs:
       mode:
@@ -63,6 +65,7 @@ jobs:
           DEVTO_USERNAME: sanukhandev
           PUSH_BEFORE: ${{ github.event.before }}
           PUBLISH_MODE: ${{ inputs.mode }}
+          DEVTO_PUBLISHED_MANIFEST: ${{ runner.temp }}/devto-published.json
         run: |
           if [ -z "$DEVTO_API_KEY" ]; then
             echo "::error::DEVTO_API_KEY is not configured. Add it to the devto-production environment."
@@ -77,3 +80,20 @@ jobs:
           else
             python scripts/devto_publish.py --publish-changed
           fi
+
+      - name: Generate LinkedIn drafts with published slugs
+        if: success()
+        run: |
+          if [ -f "${{ runner.temp }}/devto-published.json" ]; then
+            python scripts/linkedin_drafts.py "${{ runner.temp }}/devto-published.json" "${{ runner.temp }}/linkedin-drafts"
+          else
+            echo "No publication manifest was produced."
+          fi
+      - name: Upload LinkedIn drafts for manual review
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: linkedin-drafts-${{ github.run_id }}
+          path: ${{ runner.temp }}/linkedin-drafts/*.md
+          if-no-files-found: ignore
+          retention-days: 30
