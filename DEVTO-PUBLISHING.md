@@ -41,8 +41,10 @@ Set `published: true` in the PR when ready. Merge to `main` to publish it.
 - `published: false` files are ignored (not sent to DEV.to).
 - Subsequent changes to a published article update the same DEV.to post.
 - Publication does not delete or unpublish DEV.to posts when a file is removed.
+- To verify that the DEV.to secret authenticates correctly without publishing,
+  run **DEV.to publishing** manually from Actions and choose mode **verify**.
 - To re-sync every `published: true` article, run **DEV.to publishing** manually
-  from the Actions tab via **Run workflow**.
+  from Actions and explicitly choose mode **publish-all**.
 - Cover images must already be reachable at an HTTPS URL.
 - If cross-posting an article originally published on your own site, set
   `canonical_url` to the public original; otherwise omit it.
