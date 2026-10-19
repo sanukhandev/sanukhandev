@@ -8,6 +8,15 @@ on:
     paths:
       - 'posts/**/*.md'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: Verify the DEV.to API key without posting, or publish approved articles
+        type: choice
+        required: true
+        default: verify
+        options:
+          - verify
+          - publish-all
 
 permissions:
   contents: read
@@ -53,13 +62,18 @@ jobs:
           DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
           DEVTO_USERNAME: sanukhandev
           PUSH_BEFORE: ${{ github.event.before }}
+          PUBLISH_MODE: ${{ inputs.mode }}
         run: |
           if [ -z "$DEVTO_API_KEY" ]; then
             echo "::error::DEVTO_API_KEY is not configured. Add it to the devto-production environment."
             exit 1
           fi
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python scripts/devto_publish.py --publish-all
+          if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+            case "$PUBLISH_MODE" in
+              verify) python scripts/devto_publish.py --check-auth ;;
+              publish-all) python scripts/devto_publish.py --publish-all ;;
+              *) echo "::error::Invalid publishing mode"; exit 1 ;;
+            esac
           else
             python scripts/devto_publish.py --publish-changed
           fi
