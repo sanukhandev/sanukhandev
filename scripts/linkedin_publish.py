@@ -106,7 +106,7 @@ def main():
     github_token = os.environ["GITHUB_TOKEN"]
     linkedin_token = os.environ["LINKEDIN_ACCESS_TOKEN"]
     author = os.environ["LINKEDIN_AUTHOR_URN"]
-    version = os.environ.get("LINKEDIN_API_VERSION", "202610")
+    version = os.environ.get("LINKEDIN_API_VERSION") or "202607"
     if not re.fullmatch(r"urn:li:person:[A-Za-z0-9_-]+", author):
         raise ValueError("LINKEDIN_AUTHOR_URN must be a valid person URN")
     if not re.fullmatch(r"20\d{4}", version):
@@ -133,7 +133,6 @@ def main():
             "linkedin_urn": urn,
         }
         sha = save_ledger(github_token, ledger, sha)
-        post_id = urn.rsplit(":", 1)[-1]
         post_url = f"https://www.linkedin.com/feed/update/{quote(urn, safe=':')}/"
         print(f"LINKEDIN PUBLISHED: {slug} -> {post_url}")
         summary = os.environ.get("GITHUB_STEP_SUMMARY")
