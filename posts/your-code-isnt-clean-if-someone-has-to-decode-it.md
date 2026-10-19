@@ -1,6 +1,6 @@
 ---
 title: "Your Code Isn't Clean If Someone Has to Decode It"
-published: false
+published: true
 description: "Clean code isn't about clever syntax. Learn how intention-revealing names, readable TypeScript, and better code reviews reduce cognitive load and maintenance costs."
 tags:
   - cleancode
