@@ -101,7 +101,7 @@ class Devto:
                 with urlopen(request, timeout=30) as response:
                     return json.loads(response.read().decode("utf-8"))
             except HTTPError as error:
-                if error.code in (429, 500, 502, 503, 504) and attempt < 4:
+                if (error.code == 429 or (method != 'POST' and error.code in (500, 502, 503, 504))) and attempt < 4:
                     try:
                         delay = min(60, max(1, int(error.headers.get("Retry-After", "0"))))
                     except ValueError:
@@ -146,7 +146,8 @@ class Devto:
         found = []
         index = self.owned_articles()
         # Check likely matches first, then the rest to survive article title changes.
-        candidates = sorted(index, key=lambda item: item.get("title") != title)
+        candidates = sorted((item for item in index if item.get("published_at") or item.get("published_timestamp")),
+                            key=lambda item: item.get("title") != title)
         for item in candidates:
             detail = self.detail(item["id"])
             if marker in (detail.get("body_markdown") or ""):
