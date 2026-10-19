@@ -3,10 +3,6 @@ name: DEV.to publishing
 on:
   pull_request:
     branches: [main]
-    paths:
-      - 'posts/**/*.md'
-      - 'scripts/devto_publish.py'
-      - '.github/workflows/devto-publish.yml'
   push:
     branches: [main]
     paths:
