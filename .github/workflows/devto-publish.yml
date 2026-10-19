@@ -9,6 +9,7 @@ on:
       - 'posts/**/*.md'
       - 'scripts/devto_publish.py'
       - 'scripts/linkedin_drafts.py'
+      - 'scripts/linkedin_publish.py'
   workflow_dispatch:
     inputs:
       mode:
@@ -49,6 +50,8 @@ jobs:
     needs: validate
     runs-on: ubuntu-latest
     environment: devto-production
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -97,3 +100,19 @@ jobs:
           path: ${{ runner.temp }}/linkedin-drafts/*.md
           if-no-files-found: ignore
           retention-days: 30
+
+      - name: Automatically publish confirmed articles to LinkedIn
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_AUTHOR_URN: ${{ vars.LINKEDIN_AUTHOR_URN }}
+          LINKEDIN_API_VERSION: ${{ vars.LINKEDIN_API_VERSION }}
+        run: |
+          if [ ! -f "${{ runner.temp }}/devto-published.json" ]; then
+            echo "No confirmed DEV.to publication manifest; skipping LinkedIn."
+          elif [ -z "$LINKEDIN_ACCESS_TOKEN" ] || [ -z "$LINKEDIN_AUTHOR_URN" ]; then
+            echo "::warning::LinkedIn not configured: set LINKEDIN_ACCESS_TOKEN secret and LINKEDIN_AUTHOR_URN variable in devto-production."
+          else
+            python scripts/linkedin_publish.py "${{ runner.temp }}/devto-published.json"
+          fi
