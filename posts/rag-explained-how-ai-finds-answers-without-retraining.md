@@ -1,6 +1,6 @@
 ---
 title: "RAG Explained: How AI Finds Answers in 600 Documents Without Retraining"
-published: false
+published: true
 description: "Understand retrieval-augmented generation from document chunking and embeddings to vector search, grounded prompts, citations, and production security."
 tags:
   - ai
