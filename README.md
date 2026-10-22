@@ -1,5 +1,17 @@
 <div align="center">
   <img src="assets/profile-banner.svg" width="100%" alt="Sanu Khan — Tech Lead and Solution Architect. Building systems that work beyond the demo." />
+  <br />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=F7F7F7&amp;width=435&amp;lines=Full+Stack+Developer;Open+Source+Contributor;Building+cool+things"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=24292F&amp;width=435&amp;lines=Full+Stack+Developer;Open+Source+Contributor;Building+cool+things"
+      width="435"
+      alt="Animated intro: Full Stack Developer, Open Source Contributor, Building cool things"
+    />
+  </picture>
 </div>
 
 **Tech Lead · Solution Architect · Full-Stack Engineer**  
@@ -26,9 +38,24 @@ I turn complex business problems into maintainable software — from distributed
 
 ### GitHub activity
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sanukhandev&amp;show_icons=true&amp;theme=cobalt"
+    height="190"
+    alt="GitHub profile statistics for sanukhandev"
+    loading="lazy"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=sanukhandev&amp;theme=dark"
+    height="190"
+    alt="GitHub contribution streak for sanukhandev"
+    loading="lazy"
+  />
+</p>
+
 [![Recent GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=sanukhandev&theme=github-compact&hide_border=true&area=true)](https://github.com/sanukhandev?tab=overview)
 
-<sub>Public contribution data is only part of the picture; much of my enterprise engineering work is in private repositories. The activity image is provided by a third-party service.</sub>
+<sub>Public contribution data is only part of the picture; much of my enterprise engineering work is in private repositories. The stat cards, streak, typing animation, and activity graph are rendered by third-party services.</sub>
 
 ### Notes from the field
 
