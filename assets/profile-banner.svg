@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sanu Khan — Tech Lead and Solution Architect</title>
+  <desc id="desc">Minimal dark editorial banner with a warm orange accent and an abstract connected-systems illustration.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101114"/>
+      <stop offset="1" stop-color="#1B1D22"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#surface)"/>
+  <rect x="735" y="0" width="465" height="300" fill="url(#grid)"/>
+  <rect x="63" y="43" width="30" height="4" rx="2" fill="#ED6848"/>
+  <text x="106" y="49" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.5" fill="#ED947D">ENGINEERING  /  ARCHITECTURE</text>
+  <text x="62" y="156" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-3" fill="#F5F2ED">Sanu Khan</text>
+  <text x="65" y="215" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#BABDC4">Building systems that work beyond the demo.</text>
+  <text x="65" y="267" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5" fill="#848992">TECH LEAD  ·  SOLUTION ARCHITECT  ·  DUBAI</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="995" cy="151" r="109" stroke="#666A73" stroke-opacity=".5" stroke-width="1.5"/>
+    <circle cx="995" cy="151" r="67" stroke="#666A73" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="M903 102 995 151 1090 102M903 202 995 151 1090 202M995 84V218" stroke="#A1A5AE" stroke-opacity=".45" stroke-width="1.5"/>
+    <path d="M903 102 903 202M1090 102 1090 202" stroke="#A1A5AE" stroke-opacity=".3" stroke-width="1.5"/>
+    <circle cx="995" cy="151" r="12" fill="#ED6848" stroke="#ED6848"/>
+    <circle cx="903" cy="102" r="6" fill="#15171B" stroke="#ED6848" stroke-width="3"/>
+    <circle cx="1090" cy="102" r="6" fill="#15171B" stroke="#A1A5AE" stroke-width="3"/>
+    <circle cx="903" cy="202" r="6" fill="#15171B" stroke="#A1A5AE" stroke-width="3"/>
+    <circle cx="1090" cy="202" r="6" fill="#15171B" stroke="#ED6848" stroke-width="3"/>
+  </g>
+</svg>
