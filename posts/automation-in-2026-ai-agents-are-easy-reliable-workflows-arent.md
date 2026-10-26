@@ -1,6 +1,6 @@
 ---
 title: "Automation in 2026: AI Agents Are Easy. Reliable Workflows Aren't."
-published: false
+published: true
 description: "AI agents, n8n, self-hosting, and orchestration are changing automation. Here's how to design workflows that survive production."
 tags:
   - automation
