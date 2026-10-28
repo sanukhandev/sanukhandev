@@ -2,7 +2,11 @@
 title: "25 Million Records Later: Why Your RAG Pipeline Still Isn't Production-Ready"
 published: true
 description: "A practical architecture review of AWS's Ray-based RAG ingestion pipeline—and the reliability, security, and retrieval gates needed to operate RAG in production."
-tags: rag, architecture, aws, ai
+tags:
+  - rag
+  - architecture
+  - aws
+  - ai
 ---
 
 > **25 million records. Distributed GPUs. Two vector databases. And still, the most difficult part of production RAG is not embedding generation.**
